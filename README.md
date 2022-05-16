@@ -1,2 +1,0 @@
-# Mule-soft
-queries
